@@ -1,0 +1,214 @@
+﻿:: Start
+Prototipo 1
+Ximena
+
+By Pauline Ryuusei
+
+[[Empezar|1]]
+
+
+:: 1
+Sales de tu casa. Vas a una fiesta al otro lado de la ciudad. Tienes suficiente tiempo.
+¿Cómo vas a llegar?
+
+
+[[Taxi|A1]]
+[[Metro|A2]]
+[[Caminando|A3]]
+
+
+:: A1
+Tomas un taxi, le das la dirección al taxista. Éste lleva el espejo retrovisor en tu falda.
+
+[[Llegas al destino|A11]]
+[[El taxista se desvía de la ruta|A12]]
+
+
+:: A11
+Bien. Al menos el taxista te trajo. Súper incómoda, pero conseguiste llegar.
+
+[[Llegas al lugar|B]]
+
+
+:: B1
+Estás platicando, de todo, de nada. Un tipo te ve de lejos, repetidamente. Por fin se levanta y se dirige hacia ti. Te propone irse de ahí a 'hacer algo' lo cual obviamente no vas a hacer, ni siquiera lo conoces. Eso te hace dejar la conversación grupal.
+
+¿Haces algo más?
+
+[[Bebes un poco|B2]]
+[[Bailas un rato|B3]]
+[[Irte de la fiesta|C]]
+
+
+:: A12
+Ves que el taxi se va por otra calle, ahora ni siquiera sabes dónde estás. No deja de ver el retrovisor que apunta a tu falda.
+Te bajas en un semáforo mientras se descuida el chofer y corres.
+
+[[Te bajas en un semáforo|A3]]
+
+
+:: StoryTitle
+Ximena
+
+
+:: D1
+Ruta corta y fea. 
+Por llegar más rápido, ojalá que valga la pena arriesgarse.
+
+[[Final 2]]
+[[Final 3]]
+
+
+:: D
+Te vas caminando. 
+Hay dos rutas, ¿Cuál eliges?
+
+[[Corta y fea|D1]]
+[[Larga y bonita|D2]]
+
+
+:: Final 1
+Tu padre te regaña todo el camino, ya no te dejarán salir sola porque eres mujer y algo te puede pasar en la noche.
+
+[[Volver a empezar|Start]]
+
+
+:: A22
+Subes. Viene lleno. El único asiento disponible está bloqueado por un señor de esos que abren sus piernas y no te dejan sentar.
+Te toca irte de pie.
+
+[[Llegas al lugar|B]]
+
+
+:: StoryAuthor
+Pauline Ryuusei
+
+
+:: D2
+Te vas por la ruta larga. Estás cansada, ya quieres llegar, pero ni modo. En esta calle al menos sí hay alumbrado, y pasa la patrulla cada cierto tiempo. Llegarás literalmente a dormir.
+
+[[Final 2]]
+
+
+:: C
+Sales de la fiesta. Ya se te hizo tarde y no hay transporte público. ¡Rayos! Se te fue el tiempo, debiste salir antes.
+
+¿Cómo te vas de ahí?
+
+[[Irse caminando|D]]
+[[Llamar a alguien|E]]
+
+
+:: A2
+Bajas al metro. ¿Vagón normal o preferente?
+
+[[Normal|A22]]
+[[Preferente|A21]]
+
+
+:: B2
+Vas a la barra a que te sirvan un vaso. Pones atención para verificar que lo único que te sirvan sea el alcohol que pediste. Tienes que beber poco porque vienes sola y nadie te va a cuidar.
+
+¿Haces algo más?
+
+[[Platicas con gente|B1]]
+[[Bailas un rato|B3]]
+[[Irte de la fiesta|C]]
+
+
+:: B
+Llegas a la fiesta. ¿Qué haces?
+
+[[Platicas con gente|B1]]
+[[Bebes un poco|B2]]
+[[Bailas un rato|B3]]
+
+
+:: Final 2
+Llegas sola a tu casa caminando. La libraste por hoy. Mañana será otro día.
+
+[[Volver a empezar|Start]]
+
+
+:: A21
+Eliges el vagón preferencial. Viene lleno pero hay lugares.
+Te sientas hasta que llega tu estación y te bajas.
+
+[[Llegas al lugar|B]]
+
+
+:: E
+Y bien, a ésta hora, ¿a quién vas a llamar?
+
+[[Mamá|E1]]
+[[Amiga|E2]]
+[[Tu ex|E3]]
+
+
+:: E1
+Tu mamá te regaña, fuiste irresponsable y no deja de repetirte 'te lo dije'. Te pide que esperes, ya va tu padre a recogerte.
+
+[[Final 1]]
+
+
+:: Final 3
+Sientes que alguien te sigue. Volteas atrás y no ves a nadie.
+Sigues caminando, de repente dos hombres te toman y te suben a un auto. Esperemos que lo puedas contar mañana.
+
+[[Volver a empezar|Start]]
+
+
+:: A31
+Te vas por la ruta corta y fea. Un hombre te sigue unas cuadras en su bici y consigue darte una nalgada. Te molestas, pero ya se fue a toda velocidad después de su acoso.
+
+Al fin, llegas al lugar.
+
+[[Llegas al lugar|B]]
+
+
+:: B3
+Llegas a la pista. Bailas un poco, hasta que llega un tipo que huele mucho a alcohol y por su insistencia en bailar contigo, es que decides retirarte.
+
+¿Haces algo más?
+
+[[Platicas con gente|B1]]
+[[Bebes un poco|B2]]
+[[Irte|C]]
+
+
+:: E2
+Tu amiga no te contesta. Llamas varias veces, le envías mensajes y ni siquiera salen dos palomitas. Creo que no está disponible. 
+¿Qué haces ahora?
+
+[[Llamar a mamá|E1]]
+[[Llamar a tu ex|E3]]
+[[Irte caminando|D]]
+
+
+:: A3
+Te vas caminando. 
+Hay dos rutas:
+
+[[Corta pero fea|A31]]
+[[Larga pero bonita|A32]]
+
+
+:: A32
+Te vas por la ruta larga. Das mucha vuelta, pero al menos por ésta calle sí pasan patrullas, digo, por si algo pasa.
+Cansada de caminar, al fin llegas.
+
+[[Llegas al lugar|B]]
+
+
+:: Final 4
+Es un poco incómodo llamar a tu ex para que vaya por ti en la madrugada, pero ya lo hiciste y sí fue por ti. Te regaña y te dice que debes ser más precavida en tus salidas, pues cualquiera pudo haberte llevado sin que tú quisieras.
+
+[[Volver a empezar|Start]]
+
+
+:: E3
+Después de dos llamadas fallidas, te contesta a la tercera. Estás apenada por llamarle, pero no sabes a quién recurrir a éstas horas. Se lo piensa y al final decide ir por ti. Lo esperas hasta que llega. Te arrepientes un poco por dentro.
+
+[[Final 4]]
+
+
