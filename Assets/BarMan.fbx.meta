@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 757c8a45ebb74cb449ff6c16c50c7dff
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint10
+    100006: joint11
+    100008: joint12
+    100010: joint13
+    100012: joint14
+    100014: joint15
+    100016: joint16
+    100018: joint17
+    100020: joint18
+    100022: joint19
+    100024: joint2
+    100026: joint20
+    100028: joint21
+    100030: joint22
+    100032: joint23
+    100034: joint3
+    100036: joint4
+    100038: joint5
+    100040: joint6
+    100042: joint7
+    100044: joint8
+    100046: joint9
+    100048: pCube1
+    100050: pCube10
+    100052: pCylinder7
+    100054: polySurface1
+    100056: pSphere12
+    100058: pSphere3
+    100060: pSphere8
+    400000: //RootNode
+    400002: joint1
+    400004: joint10
+    400006: joint11
+    400008: joint12
+    400010: joint13
+    400012: joint14
+    400014: joint15
+    400016: joint16
+    400018: joint17
+    400020: joint18
+    400022: joint19
+    400024: joint2
+    400026: joint20
+    400028: joint21
+    400030: joint22
+    400032: joint23
+    400034: joint3
+    400036: joint4
+    400038: joint5
+    400040: joint6
+    400042: joint7
+    400044: joint8
+    400046: joint9
+    400048: pCube1
+    400050: pCube10
+    400052: pCylinder7
+    400054: polySurface1
+    400056: pSphere12
+    400058: pSphere3
+    400060: pSphere8
+    2300000: pCube10
+    2300002: pCylinder7
+    2300004: pSphere12
+    2300006: pSphere3
+    2300008: pSphere8
+    3300000: pCube10
+    3300002: pCylinder7
+    3300004: pSphere12
+    3300006: pSphere3
+    3300008: pSphere8
+    4300000: polySurface1
+    4300002: pSphere3
+    4300004: pSphere8
+    4300006: pSphere12
+    4300008: pCylinder7
+    4300010: pCube10
+    9500000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
