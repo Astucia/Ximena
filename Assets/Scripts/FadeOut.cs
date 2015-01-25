@@ -8,6 +8,7 @@ public class FadeOut : MonoBehaviour {
 	private Color color;
 	public float speed;
 	private float fadePercent;
+	private bool isFade;
 
 	// Use this for initialization
 	void Start () {
@@ -16,8 +17,14 @@ public class FadeOut : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		fadePercent += Time.deltaTime;
-		color.a = Mathf.Lerp(0.0f, 1.0f, fadePercent * speed);
-		image.color = color;
+		if(isFade){
+			fadePercent += Time.deltaTime;
+			color.a = Mathf.Lerp(0.0f, 1.0f, fadePercent * speed);
+			image.color = color;
+		}
+	}
+
+	public void initFade(){
+		isFade = true;
 	}
 }
