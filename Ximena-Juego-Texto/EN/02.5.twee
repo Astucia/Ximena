@@ -1,0 +1,337 @@
+﻿:: Start
+Prototype 2.5
+Ximena
+
+By Pauline Ryuusei
+
+[[Start|1]]
+[[Disclaimer]]
+
+
+:: 1
+You go out of your house. You're going to a party across the city. There's enough time.
+How are you going to arrive there?
+
+[[Taxi|A1]]
+[[Subway|A2]]
+[[By walking|A3]]
+
+
+:: A1
+You take a taxi, and tell the adress to the taxi driver. He adjust the rearview mirror to see your skirt.
+
+[[Arrive|A11]]
+[[Taxi takes a different street|A12]]
+
+
+:: A11
+Good. At least the taxi driver brought you safe. It was a little uncomfortable, but now you're at the party.
+
+[[Arrive to party|B]]
+
+
+:: D1
+Short and insecure way.
+It's all about arriving home faster, hope it will be worthy to take that kind of risk.
+
+[[Final 2]]
+[[Final 3]]
+
+
+:: B1
+You're on a group talk. Talking of everything and nothing. A guy sees you from the other side of the room, repeated times.
+Finally he stands up and walk to your place. He tells you to go to another place to 'do something' and obviously you say no, you don't even know him. This makes you to leave the group conversation.
+
+Would you like to do something else?
+
+[[Take a drink|B2]]
+[[Take a drink|B5]]
+[[Go to dance|B3]]
+[[Go to dance|B6]]
+[[Leave the party|C]]
+
+
+:: D
+You go home by walking.
+There's two ways, which one do you choose?
+
+[[Short and insecure|D1]]
+[[Long and safe|D2]]
+
+
+:: A12
+You see how the taxi takes a different way, now you don't know where you are. The taxi driver doesn't stop to see your skirt in the rearview mirror.
+You go out the car and escape while the taxi driver is distracted.
+
+[[Run away|A3]]
+
+
+:: Disclaimer
+What do we do now? is a common question women ask themselves in dangerous situations.
+
+And what do we do now to help women avoid this kind of situations?
+
+[[Back to start|Start]]
+
+
+:: D2
+You walk the long way. You're tired, all you want is to arrive home and sleep. At least there's light on this street and cops are passing by frequently.
+
+[[Final 2]]
+
+
+:: Final 1
+Your dad complains about your irresponsible acts and tells you that you'll never go out alone because you're a woman and it's dangerous for you.
+
+[[Restart|Start]]
+
+
+:: B4
+You're on a group talk. You feel a hand on your shoulder, turn and see your high school best friend.
+You spend a lot of time together talking about your lives after graduation and telling jokes. You agree to go out together next week.
+
+Would you like to do something else?
+
+[[Take a drink|B2]]
+[[Take a drink|B5]]
+[[Go to dance|B3]]
+[[Go to dance|B6]]
+[[Leave the party|C]]
+
+
+:: E
+So... It's late, who are you going to call?
+
+[[Mom|E1]]
+[[Friend|E2]]
+[[Your ex-boyfriend|E3]]
+
+
+:: E1
+Your mom complains about your attitude, you were irresponsible and doesn't stops telling you 'I told you'. She asks you to wait, your dad is going to pick you up.
+
+[[Final 1]]
+
+
+:: A24
+The wagon is full. You were resigned to travel stand up in the wagon when a man stands up and give you his seat.
+
+Man: Sit up please, I'm traveling to the next station.
+
+[[Llegas al lugar|B]]
+
+
+:: B
+You enter to the party. What would you do?
+
+[[Talk to people|B1]]
+[[Talk to people|B4]]
+[[Take a drink|B2]]
+[[Take a drink|B5]]
+[[Go to dance|B3]]
+[[Go to dance|B6]]
+
+
+:: Final 2
+You arrive home by walking. Today you had luck. Tomorrow's going to be a different day.
+
+[[Restart|Start]]
+
+
+:: StoryTitle
+Ximena
+
+
+:: B2
+You go to the bar for a drink. You pay attention when the barman is serving your drink to verify the only thing in your drink is the alcohol you requested. You must drink a little because you came on your own and nobody is going to take care of you.
+
+Would you like to do something else?
+
+[[Talk to people|B1]]
+[[Talk to people|B4]]
+[[Go to dance|B3]]
+[[Go to dance|B6]]
+[[Leave the party|C]]
+
+
+:: C
+You leave the party. It's late and there's no public transport. Damn! Time goes on, you must had left the party earlier.
+
+How are you going back home?
+
+[[By walking|D]]
+[[Call someone|E]]
+[[Take a taxi|F]]
+
+
+:: E2
+Your friend is not answering the phone. You call repeated times, send text messages and it doesn't seems like working. I think she's not available.
+What do you now?
+
+[[Call mom|E1]]
+[[Call your ex-boyfriend|E3]]
+[[Walk home|D]]
+
+
+:: A22
+The wagon is full. The only available seat is blocked by a man who seats down with his legs spread. You have to travel stand up.
+
+[[Arrive|B]]
+
+
+:: A2
+You go down to subway. What wagon will you choose?
+
+[[Normal|A22]]
+[[Normal|A24]]
+[[Special (women, elder and kids only)|A21]]
+[[Special (women, elder and kids only)|A23]]
+
+
+:: Final 3
+You feel someone's following you. You look back and you don't see anybody.
+You keep walking, suddenly two men take you into a car. Hope you can speak about it tomorrow.
+
+[[Restart|Start]]
+
+
+:: StoryAuthor
+Pauline Ryuusei
+
+
+:: B5
+You go to the bar and wait for the barman to come near. Suddenly a man come next to you.
+
+He: Hey girl, want a drink too?
+You: Yeah, maybe that's why I'm here in the bar, ain't I?
+He: Come on, don't be rude. Let me buy you a drink.
+You: No, thanks, someone's talking me over there...
+
+Then you gave up on the bar.
+
+Would you like to do something else?
+
+[[Talk to people|B1]]
+[[Talk to people|B4]]
+[[Go to dance|B3]]
+[[Go to dance|B6]]
+[[Leave the party|C]]
+
+
+:: A21
+You chose special wagon. It's almost full, but there's available seats. You take a seat until your station arrives.
+
+[[Arrive|B]]
+
+
+:: E3
+After two failed tries, he answers the phone at the third try.
+You're so ashamed to call him, it's just you don't know who to call.
+
+After hesitating, he acceed to go to pick you up. You wait there until he arrives. You regret a little about calling him.
+
+[[Final 4]]
+
+
+:: Final 4
+It's uncomfortable calling your ex-boyfriend to pick you up at night, but you have already called him and he went to pick you up.
+He complains and tell you that you should be cautious when you go out at night, because somebody could pick you up without your permission.
+
+[[Restart|Start]]
+
+
+:: B3
+You go to the dance floor. You dance a little, until a alcohol-smelling guy arrives and because of his insistence to dance with you is that you decide to leave the dance floor.
+
+Would you like to do something else?
+
+[[Talk to people|B1]]
+[[Talk to people|B4]]
+[[Take a drink|B2]]
+[[Take a drink|B5]]
+[[Leave the party|C]]
+
+
+:: A23
+You take the special wagon. There will be a place to seat if the woman on the right side would not fill the seats with her groceries. You have to travel stand up.
+
+[[Arrive|B]]
+
+
+:: F
+Okay, at this time, where are you going to find a taxi?
+You can take the first taxi you see, or walk some blocks to the taxi base.
+
+[[Take the first taxi|Final 5]]
+[[Walk to the taxi base|Final 6]]
+
+
+:: Final 5
+You take the first taxi you see coming. You tell him the address of your home.
+The taxi driver should take the right street, but he didn't.
+You look for his driver's license, but there's nothing. You wait until the taxi driver is distracted to escape out, but the door handles are broken.
+You should had been more cautious. Hope you'll be okay to speak about it tomorrow.
+
+[[Restart|Start]]
+
+
+:: B6
+You go to the dance floor, dance some moves, then your favorite song starts and you stay some more time. The heels are hurting you, so you go away the dance floor.
+
+Would you like to do something else?
+
+[[Talk to people|B1]]
+[[Talk to people|B4]]
+[[Take a drink|B2]]
+[[Take a drink|B5]]
+[[Leave the party|C]]
+
+
+:: A33
+You take the short and insecure way. Then, you see a building lot, so you go across the street to avoid negative responses from building workers.
+
+Finally, you arrive the party.
+
+[[Arrive to party|B]]
+
+
+:: Final 6
+You walk some blocks in the darkness until you arrive to the taxi base. You pay, tell him your home address, and go inside the taxi. You're exhausted.
+The taxi driver keeps telling you about his daughter's birthday party that was the last weekend.
+After some time you arrive home, safe and sound, to finally get some rest in your bed.
+
+[[Restart|Start]]
+
+
+:: A31
+You chose the short and insecure way. A man riding a bycicle follows you some blocks up and finally he slaps your bottom.
+You get mad, but he escaped all the way up after his harassment.
+
+Then you arrive to the party.
+
+[[Arrive to party|B]]
+
+
+:: A3
+You go by walking. 
+There's two ways:
+
+[[Short and insecure|A31]]
+[[Short and insecure|A33]]
+[[Long and secure|A32]]
+[[Long and secure|A34]]
+
+
+:: A32
+You take the long and safe way. It's a long way but at least some cops are passing every certain time on this street. It will be useful if something bad happens to you.
+Tired of walking, you arrive to the party.
+
+[[Arrive|B]]
+
+
+:: A34
+You take the long and safe way. At some point the street is under construction and you have to walk even more to avoid the construction. Lucky you didn't get lost. After some more walking you arrive to the party.
+
+[[Arrive|B]]
+
+
